@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Siyu Huang"
 description              : "Generative models and multimodal learning, with a focus on image and video generation."
-url                      : "https://henry-coder-h.github.io"
-baseurl                  : "/siyu2005.github.io"
-repository               : "Henry-coder-H/siyu2005.github.io"
+url                      : "https://huang-siyu.github.io"
+baseurl                  : ""
+repository               : "huang-siyu/huang-siyu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Henry-coder-H"
+  github           : "huang-siyu"
   google_plus      :
   keybase          :
   instagram        :

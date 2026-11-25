@@ -1,8 +1,8 @@
 # Siyu Huang 的学术主页
 
-仓库：https://github.com/Henry-coder-H/siyu2005.github.io
+仓库：https://github.com/huang-siyu/huang-siyu.github.io
 
-主页：https://henry-coder-h.github.io/siyu2005.github.io/
+主页：https://huang-siyu.github.io/
 
 本仓库 fork 自 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)，保留上游 MIT 许可证。个人简介、联系方式、照片、研究经历和奖项迁移自原有个人主页；未将模板中的示例论文或引用数当作个人成果。
 
@@ -20,6 +20,6 @@ Google Scholar 和 Google Analytics 尚未配置，页面不会请求空白统�
 
 发布方式为 `Deploy from a branch`，分支 `main`，目录 `/(root)`，由 GitHub Pages 构建 Jekyll 网站。
 
-GitHub 用户名仍为 `Henry-coder-H`，因此本仓库是项目站点。将仓库命名为 `siyu2005.github.io` 不会直接获得同名根域名；若将来改为同名账号托管，需同步修改 `_config.yml` 的 `url`、`baseurl` 和 `repository`。
+本配置用于 GitHub 账号 `huang-siyu` 下的同名主页仓库 `huang-siyu.github.io`，`baseurl` 为空。必须在账号改名及仓库改名完成后发布本配置。
 
 个人事实按原站资料迁移，包括年级、实习时间和投稿计划，后续可在 `_pages/about.md` 按实际情况更新。
