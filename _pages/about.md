@@ -32,17 +32,17 @@ My research has progressed from robust vision-language representations and image
 
 # 💻 Internships
 
-- **HCP Lab**.
-- **Tsinghua Shenzhen International Graduate School**.
-- **Zoooo** — Present.
+- *2026.8–Present*, Zoooo.
+- *2026.1–2026.7*, Tsinghua Shenzhen International Graduate School.
+- *2025.7–2026.9*, Human Cyber Physical Intelligence Integration Lab (HCP).
 
 <span class="anchor" id="section-awards"></span>
 
 # 🏆 Honors and Awards
 
-- **National Scholarship of China**, three consecutive academic years: 2023–2024, 2024–2025, and 2025–2026.
-- **Huawei Scholarship**.
-- **First-Class Outstanding Student Scholarship**, Sun Yat-sen University, three consecutive years.
+- National Scholarship of China (three consecutive academic years: 2023–2024, 2024–2025, and 2025–2026).
+- Huawei Scholarship.
+- First-Class Outstanding Student Scholarship, Sun Yat-sen University (three consecutive years).
 
 <span class="anchor" id="section-service"></span>
 

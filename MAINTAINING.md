@@ -14,7 +14,7 @@
 - `images/me.jpg`：个人照片。
 - `images/hcp_logo.jpg`：实验室标志。
 
-Google Scholar 和 Google Analytics 尚未配置，页面不会请求空白统计服务。Google Scholar 引用抓取工作流保持 fork 后的禁用状态，配置真实 Scholar ID 后可按上游 README 启用。
+Google Scholar 个人主页链接已配置。引用统计由 `_config.yml` 的 `google_scholar_stats_enabled` 控制，当前关闭；引用抓取工作流保持禁用，需要引用统计时可按上游 README 配置后启用。Google Analytics 尚未配置。
 
 ## GitHub Pages
 
