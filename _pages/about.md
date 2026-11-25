@@ -32,9 +32,9 @@ My research has progressed from robust vision-language representations and image
 
 # 💻 Internships
 
-- *Aug. 2026 - Present*, Zoooo.
+- *Aug. 2026 - Present*, Banana Lab, Zoooo.
 - *Jan. 2026 - July 2026*, Tsinghua Shenzhen International Graduate School.
-- *July 2025 - Sept. 2026*, Human Cyber Physical Intelligence Integration Lab (HCP).
+- *July 2025 - Sept. 2026*, Human Cyber Physical Intelligence Integration Lab (HCP Lab).
 
 <span class="anchor" id="section-awards"></span>
 
