@@ -5,14 +5,11 @@ main:
   - title: "News"
     url: "#section-news"
 
-  - title: "Research Experience"
-    url: "#section-experience"
-
-  - title: "Research Proposal"
-    url: "#section-proposal"
-
   - title: "Education"
     url: "#section-education"
+
+  - title: "Internships"
+    url: "#section-internships"
 
   - title: "Honors and Awards"
     url: "#section-awards"
