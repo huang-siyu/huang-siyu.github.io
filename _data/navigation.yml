@@ -3,16 +3,19 @@ main:
     url: "#about-me"
 
   - title: "News"
-    url: "#news"
-
-  - title: "Publications"
-    url: "#publications"
+    url: "#section-news"
 
   - title: "Research Experience"
-    url: "#internships"
+    url: "#section-experience"
 
-  - title: "Honors and Awards"
-    url: "#awards"
+  - title: "Research Proposal"
+    url: "#section-proposal"
 
   - title: "Education"
-    url: "#education"
+    url: "#section-education"
+
+  - title: "Honors and Awards"
+    url: "#section-awards"
+
+  - title: "Academic Service"
+    url: "#section-service"

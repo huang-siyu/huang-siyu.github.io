@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyu Huang"
-description              : "Generative models and multimodal learning, with a focus on image and video generation."
+description              : "World models and long-video generation, with a focus on temporal coherence and physical plausibility."
 url                      : "https://huang-siyu.github.io"
 baseurl                  : ""
 repository               : "huang-siyu/huang-siyu.github.io"
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyu Huang"
   avatar           : "images/me.jpg"
-  bio              : "Undergraduate · Sun Yat-sen University"
+  bio              : "Fourth-year undergraduate · Sun Yat-sen University"
   location         :
   employer         :
   pubmed           : 
