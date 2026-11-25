@@ -12,6 +12,7 @@
 - `_pages/about.md`：简介、动态、教育、实习、奖项和学术服务。
 - `_data/navigation.yml`：顶部导航，使用页内锚点兼容项目路径。
 - `images/me.jpg`：个人照片。
+- `images/avatar-favicon.svg`：嵌入当前头像的标签页图标；更换头像时同步更新。
 - `images/hcp_logo.jpg`：实验室标志。
 
 Google Scholar 个人主页链接已配置。引用统计由 `_config.yml` 的 `google_scholar_stats_enabled` 控制，当前关闭；引用抓取工作流保持禁用，需要引用统计时可按上游 README 配置后启用。Google Analytics 尚未配置。

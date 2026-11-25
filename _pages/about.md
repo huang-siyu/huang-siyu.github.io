@@ -18,13 +18,13 @@ My research has progressed from robust vision-language representations and image
 
 # 🔥 News
 
-- **Nov. 2026:** My personal homepage is online.
+- *Nov. 2026*: My personal homepage is online.
 
 <span class="anchor" id="section-education"></span>
 
 # 🎓 Education
 
-- **2023–Present:** Undergraduate in Intelligence Science and Technology, **Sun Yat-sen University**.
+- *2023 - Present*, Undergraduate in Intelligence Science and Technology, **Sun Yat-sen University**.
   - GPA: **4.0 / 4.0**; rank: **3 / 155** (top **1.9%**).
   - TOEFL: **5.5 / 6.0** (Writing: **6.0 / 6.0**).
 
@@ -32,17 +32,17 @@ My research has progressed from robust vision-language representations and image
 
 # 💻 Internships
 
-- *2026.8–Present*, Zoooo.
-- *2026.1–2026.7*, Tsinghua Shenzhen International Graduate School.
-- *2025.7–2026.9*, Human Cyber Physical Intelligence Integration Lab (HCP).
+- *Aug. 2026 - Present*, Zoooo.
+- *Jan. 2026 - July 2026*, Tsinghua Shenzhen International Graduate School.
+- *July 2025 - Sept. 2026*, Human Cyber Physical Intelligence Integration Lab (HCP).
 
 <span class="anchor" id="section-awards"></span>
 
 # 🏆 Honors and Awards
 
-- National Scholarship of China (three consecutive academic years: 2023–2024, 2024–2025, and 2025–2026).
+- National Scholarship of China (**three consecutive years**: 2023–2024, 2024–2025, and 2025–2026).
 - Huawei Scholarship.
-- First-Class Outstanding Student Scholarship, Sun Yat-sen University (three consecutive years).
+- First-Class Outstanding Student Scholarship, Sun Yat-sen University (**three consecutive years**).
 
 <span class="anchor" id="section-service"></span>
 
