@@ -40,16 +40,14 @@ Publication details will be added here.
       <img src="images/hcp_logo.jpg" alt="HCP Lab logo" width="100%" loading="lazy">
     </div>
   </div>
-  <div class="paper-box-text" markdown="1">
-
-**Human Cyber Physical Intelligence Integration Lab (HCP Lab)**
-
-*July 2025 – Present*
-
-- Proposed a novel diffusion-based continuous image super-resolution framework by physically modeling the camera imaging process.
-- Formulated the super-resolution forward process by integrating the Navier-Stokes heat transfer equations to ensure continuous and physics-grounded magnification.
-- Manuscript in preparation for ICLR 2026.
-
+  <div class="paper-box-text">
+    <p><strong>Human Cyber Physical Intelligence Integration Lab (HCP Lab)</strong></p>
+    <p><em>July 2025 – Present</em></p>
+    <ul>
+      <li>Proposed a novel diffusion-based continuous image super-resolution framework by physically modeling the camera imaging process.</li>
+      <li>Formulated the super-resolution forward process by integrating the Navier-Stokes heat transfer equations to ensure continuous and physics-grounded magnification.</li>
+      <li>Manuscript in preparation for ICLR 2026.</li>
+    </ul>
   </div>
 </div>
 
